@@ -5,6 +5,6 @@ Kaggle's competiton as well. If you want to use this code you have to change the
 4 parts as below.
 
 train\cats --> 10,000 images<br />
-train\dogs --> 10,000 images
-validation\cats --> 2,500 images
-validaton\dogs --> 2,500 images
+train\dogs --> 10,000 images<br />
+validation\cats --> 2,500 images<br />
+validaton\dogs --> 2,500 images<br />
